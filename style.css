@@ -41,7 +41,8 @@
 
 .headerLogo h2,
 .headerText h1,
-.callbox {
+.callbox,
+.footer {
     color: #F9FAF8;
 }
 
@@ -146,4 +147,9 @@ button {
 .white {
     color: white;
     border: white 2px solid;
+}
+
+.footer {
+    text-align: center;
+    padding: 50px;
 }
